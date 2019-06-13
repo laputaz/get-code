@@ -56,3 +56,6 @@ git init
 git remote add $NAME $URL 
 git checkout -b $BRANCH
 git pull $NAME $BRANCH
+git add .
+git commit -m "add README.md"
+git push $NAME $BRANCH
