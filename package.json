@@ -6,6 +6,7 @@
   "scripts": {
     "get": "sh ./sh/get-code.sh"
   },
-  "author": "", 
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
