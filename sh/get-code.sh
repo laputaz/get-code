@@ -7,7 +7,7 @@ newDir(){
 }
 # 建立文件夹
 read -p '请输入文件夹名称:' -a FLODER 
-while [ -z $FLODER ]
+while [ -z $FLODER ] 
     do
     read -p '名称为空, 请重新输入:' -a FLODER
 done
