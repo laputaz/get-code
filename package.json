@@ -4,7 +4,7 @@
   "description": "getcode",
   "main": "index.js",
   "scripts": {
-    "get": "sh ./sh/get-code.sh"
+    "get": "sh ./sh/get-code.sh" 
   },
   "author": "",
   "license": "ISC",
